@@ -1,6 +1,6 @@
 # StatModel
 
-感谢知乎大佬纯粹的资料
+感谢知乎大佬“纯粹”的资料
 
 Statistical Modeling and Methods | PKU 2020 Spring
 
